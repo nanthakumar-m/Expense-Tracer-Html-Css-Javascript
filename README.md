@@ -6,7 +6,7 @@ The Expense Tracker is a fully interactive web application that allows users to 
  
 The aim of this project was to gain practical experience with DOM manipulation, dynamic table generation, event handling, and array operations in JavaScript. It simulates a mini financial tracker 
 
-🔗👉 https://nanthakumar-m.github.io/Expense-Tracer-Html-Css-Javascript/
+🔗👉 click here to see the live demo--> https://nanthakumar-m.github.io/Expense-Tracer-Html-Css-Javascript/
 
 ## ⚙️ Technologies Used
 
