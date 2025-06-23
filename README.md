@@ -38,6 +38,7 @@ The aim of this project was to gain practical experience with DOM manipulation, 
 ✅ Practiced form validation and filtering logic
 
 ## 📸 Screenshots
+
 ![image](https://github.com/user-attachments/assets/81ec4ab1-beae-407e-91ee-a0a3a5d75c01)
 
 ![image](https://github.com/user-attachments/assets/751f2fb6-2962-423b-bc0f-0515027ddb42)
